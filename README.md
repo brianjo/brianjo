@@ -6,9 +6,9 @@ I work at the intersection of platform shifts, developer ecosystems, and AI adop
 
 Over the past two decades, I’ve operated inside major platform transitions:
 
-- **Microsoft** — Developer ecosystem, product management, platform strategy  
-- **Netflix** — Cloud-native architecture, DevOps enablement, internal bootcamps  
-- **Meta** — AI infrastructure, DevEx analytics, LLM productivity enablement  
+- **Microsoft** - Developer ecosystem, product management, platform strategy  
+- **Netflix** - Cloud-native architecture, DevOps enablement, internal bootcamps  
+- **Meta** - AI infrastructure, DevEx analytics, LLM productivity enablement  
 
 ---
 
@@ -16,10 +16,10 @@ Over the past two decades, I’ve operated inside major platform transitions:
 
 I’m interested in how platform primitives become usable systems.
 
-- **AI infrastructure** — LLaMA ecosystem, PyTorch tooling, agent frameworks  
-- **Build systems & developer tooling** — Buck/Buck2, CI/CD systems, typed languages  
-- **Documentation as infrastructure** — PyTorch, React, Docusaurus, docs-as-code  
-- **Applied generative systems** — Agent APIs, workflow automation, physical design tooling  
+- **AI infrastructure** - LLaMA ecosystem, PyTorch tooling, agent frameworks  
+- **Build systems & developer tooling** - Buck/Buck2, CI/CD systems, typed languages  
+- **Documentation as infrastructure** - PyTorch, React, Docusaurus, docs-as-code  
+- **Applied generative systems** - Agent APIs, workflow automation, physical design tooling  
 
 ---
 
@@ -32,14 +32,13 @@ I’m especially interested in how AI agents reshape:
 - Platform strategy
 - Human + AI collaboration systems
 
-I believe the next platform shift won’t just be smarter models —  
-it will be better systems for integrating them into organizations.
+The next platform shift won’t just be smarter models, it will be better systems for integrating them into organizations.
 
 ---
 
 ## 🔍 Selected Projects
 
-- `watchdialtools` — Inkscape extensions for generative watch dial design  
-- `pytorch-basics` — PyTorch tutorials ported to Docusaurus  
-- `agentapi` (fork) — Exploring HTTP interfaces for AI coding agents  
+- `watchdialtools` - Inkscape extensions for generative watch dial design  
+- `pytorch-basics` - PyTorch tutorials ported to Docusaurus  
+- `agentapi` (fork) - Exploring HTTP interfaces for AI coding agents  
 - Various forks across the AI & developer tooling ecosystem  
