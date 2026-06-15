@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Brian Johnson
+# Hi, I’m Brian Johnson
 
 **Tech Lead @ Meta | Former Product Manager | DevEx & AI Platform Strategist**
 
-I work at the intersection of platform shifts, developer ecosystems, and AI adoption.
+I find myself at the intersection of platform shifts, developer ecosystems, and AI adoption.
 
 Over the past two decades, I’ve operated inside major platform transitions:
 
@@ -12,7 +12,7 @@ Over the past two decades, I’ve operated inside major platform transitions:
 
 ---
 
-## 🧠 What I Care About
+## What I Care About
 
 I’m interested in how platform primitives become usable systems.
 
@@ -23,22 +23,18 @@ I’m interested in how platform primitives become usable systems.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 I’m especially interested in how AI agents reshape:
 
-- Enterprise software
 - Developer workflows
+- Knowlege systems
 - Platform strategy
-- Human + AI collaboration systems
-
-The next platform shift won’t just be smarter models, it will be better systems for integrating them into organizations.
+- Human + AI collaboration
 
 ---
 
-## 🔍 Selected Projects
+## Selected Projects
 
 - `watchdialtools` - Inkscape extensions for generative watch dial design  
-- `pytorch-basics` - PyTorch tutorials ported to Docusaurus  
-- `agentapi` (fork) - Exploring HTTP interfaces for AI coding agents  
 - Various forks across the AI & developer tooling ecosystem  
